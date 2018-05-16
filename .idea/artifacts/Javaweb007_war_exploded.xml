@@ -1,0 +1,67 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Javaweb007:war exploded">
+    <output-path>$PROJECT_DIR$/target/Javaweb007</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Javaweb007" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.session:spring-session:1.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: eu.agrosense.api:session:14.06-beta" />
+          <element id="library" level="project" name="Maven: org.keycloak:keycloak-installed-adapter:1.0-beta-2" />
+          <element id="library" level="project" name="Maven: org.keycloak:keycloak-core:1.0-beta-2" />
+          <element id="library" level="project" name="Maven: org.keycloak:keycloak-adapter-core:1.0-beta-2" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk16:1.46" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.1.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.1.2" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.4" />
+          <element id="library" level="project" name="Maven: net.iharder:base64:2.3.8" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.12" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.12" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.2.0.Beta1" />
+          <element id="library" level="project" name="Maven: eu.agrosense.api:model:14.06-beta" />
+          <element id="library" level="project" name="Maven: eu.agrosense.client:lib-geotools:10.2-NB72" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-api:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-main:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-metadata:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-referencing:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-shapefile:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-swing:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-render:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-epsg-hsql:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-coverage:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-geotiff:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-opengis:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-geojson:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-process:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-process-raster:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-process-geometry:10.0" />
+          <element id="library" level="project" name="Maven: org.geotools:gt-process-feature:10.0" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-openide-nodes:RELEASE72" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-openide-awt:RELEASE72" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-openide-filesystems:RELEASE72" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-openide-dialogs:RELEASE72" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-netbeans-api-progress:RELEASE72" />
+          <element id="library" level="project" name="Maven: eu.limetri.api:geo:0.2" />
+          <element id="library" level="project" name="Maven: eu.agrosense.client:lib-dolphin:0.8.3-NB72" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-netbeans-api-annotations-common:RELEASE72" />
+          <element id="library" level="project" name="Maven: org.open-dolphin:dolphin-shared:0.8" />
+          <element id="library" level="project" name="Maven: org.codehaus.gpars:gpars:1.0.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.jsr166-mirror:jsr166y:1.7.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy-all:2.1.1" />
+          <element id="library" level="project" name="Maven: org.open-dolphin:dolphin-client:0.8" />
+          <element id="library" level="project" name="Maven: org.open-dolphin:dolphin-client-javafx:0.8" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-openide-util:RELEASE72" />
+          <element id="library" level="project" name="Maven: org.netbeans.api:org-openide-util-lookup:RELEASE72" />
+          <element id="library" level="project" name="Maven: eu.limetri.api:model:0.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/Javaweb007/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Javaweb007/web/Web" />
+    </root>
+  </artifact>
+</component>
